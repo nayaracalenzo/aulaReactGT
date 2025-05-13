@@ -2,6 +2,7 @@ import ComponentePai from "./components/ComponentePai"
 import Footer from "./components/Footer/Footer"
 import Header from "./components/Header/Header"
 import Saudacao from "./components/Saudacao"
+import './App.css'
 // import  { TesteNovo } from "./components/Saudacao"
 // import Saudacao from "./components/Saudacao"
 
